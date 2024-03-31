@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NinjaModesto.
 - 👀 I’m interested in Computer programming.
-- 🌱 I’m currently learning Software Engineering,C++,Java,JavaScript and PHP.
+- 🌱 I’m currently learning Software Engineering, C++, Java, JavaScript and PHP.
 - 💞️ I’m looking to collaborate on nothing currently.
 - 📫 How to reach me ...
 - Nationality: Brazilian :)
